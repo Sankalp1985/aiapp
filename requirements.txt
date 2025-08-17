@@ -8,3 +8,4 @@ PyPDF2
 faiss-cpu
 google-generativeai
 SpeechRecognition
+pyttsx3
