@@ -7,3 +7,4 @@ langchain-google-genai
 PyPDF2
 faiss-cpu
 google-generativeai
+SpeechRecognition
