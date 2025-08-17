@@ -9,3 +9,7 @@ faiss-cpu
 google-generativeai
 SpeechRecognition
 pyttsx3
+pandas
+matplotlib
+numpy
+python-dotenv
